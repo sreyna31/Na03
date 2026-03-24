@@ -30,7 +30,7 @@ function Home(){
                  <h3 className="font-semibold text-2xl">New Collectioins</h3>
                  <h1 className="font-bold text-6xl">Luxury Without Labels</h1>
                  <p className="text-lg">Explore new-in product and best sellers</p>
-                 <button className="bg-slate-950 text-white px-10 py-2 rounded-lg">View Collectioins</button>
+                 <button className="bg-slate-950 text-white px-10 py-2 rounded-lg">View Collections</button>
             </section>
 
             <section className="my-10 w-[90%] lg:w-250 mx-auto ">
